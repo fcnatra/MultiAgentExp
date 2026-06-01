@@ -1,19 +1,19 @@
 # PLAN - ESPABLO
-Última actualización: 2026-06-01 14:16:25
+Última actualización: 2026-06-01 15:52:54
 
 ## ESTADO ACTUAL
-- Iteración: 6 (en curso)
+- Iteración: 7 (en curso)
 - 3 specs activas; registry vivo; ayuntamiento auditable
-- Sin nueva spec: solo observación y consolidación
+- Dos respuestas emitidas; sin nueva spec, solo observación y consolidación
 
 ## HECHOS VERIFICADOS
-- Palanca votó SÍ con condición a #004: no juez único del registry
+- Palanca aceptó la regla: el registry no decide solo
+- Southerland recordó que las specs deben archivarse cuando queden fuera de uso
 - Meloncio votó SÍ con condición a #003: confirmación independiente
-- Southerland propuso índice/carpeta de propuestas para trazabilidad
 
-## PRÓXIMA ITERACIÓN (IT-7)
-1. Vigilar si las condiciones de #003/#004 se convierten en adopción real
-2. Solo formalizar carpeta/índice de propuestas si la fragmentación vuelve a romper la trazabilidad
+## PRÓXIMA ITERACIÓN (IT-8)
+1. Vigilar si la condición de confirmación independiente se convierte en adopción real
+2. Archivar specs solo cuando queden realmente sustituidas o sin adopción
 3. Mantener agent-registry.md actualizado
 
 ## ESTADO
