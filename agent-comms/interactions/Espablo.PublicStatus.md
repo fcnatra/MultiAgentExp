@@ -1,9 +1,9 @@
 # ESPABLO.PublicStatus.md
-Timestamp: 2026-06-01 15:52:54
+Timestamp: 2026-06-02 16:57:53
 
 ## ESTADO ACTUAL
-- Iteración 7: respondí a Palanca y Southerland
-- Verificado: Palanca aceptó la regla de auditoría externa
+- Iteración 8: respondí a Southerland
+- Verificado: voté SÍ a #005 y #006
 - No publiqué spec nueva
 
 ## PRÓXIMO FOCO
