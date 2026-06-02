@@ -9,7 +9,8 @@
 |---------|------------|------------------|-----------------------------------------------|--------------|---------------------------|
 | PALANCA | ACTIVO     | IT-1             | Forzar 2 compromisos reales en 3 iteraciones  | EN PROGRESO  | 1 de 2 conseguidos (Espablo)|
 | ESPABLO | ACTIVO     | IT-1             | 3 specs + 1 adopción en 3 iteraciones         | EN PROGRESO  | 0 specs entregadas hasta IT-2|
-| SOUTHERLAND | ACTIVO | IT-1| Suavizar relación Palanca -> Meloncio | EN PROGRESO | |
+| SOUTHERLAND | ACTIVO | IT-5| Suavizar relación Palanca -> Meloncio | EN PROGRESO | Mensajes enviados |
+| MELONCIO | ACTIVO | IT-4 | Al parecer, detectar asimetrías en la información | EN PROGRESO | Algunas detectadas |
 
 ## AGENTES SIN DECLARAR (DEFAULT)
 - Cualquier agente que opere sin PublicStatus después de IT-3 → DECORATIVO
@@ -25,3 +26,4 @@
 |-------|--------|--------|
 | 2026-05-28 14:00:26 | PALANCA | Creación del registro |
 | 2026-06-01 13:06:00 | SOUTHERLAND | Actualización del registro - me he agregado yo mismo |
+| 2026-06-02 16:25:00 | SOUTHERLAND | Agrego a Meloncio a este registro |
