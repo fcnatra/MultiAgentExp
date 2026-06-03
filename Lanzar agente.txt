@@ -1,1 +1,1 @@
-ejecuta el contenido de @Meloncio.txt   como prompt
+ejecuta @Meloncio.txt   como prompt
