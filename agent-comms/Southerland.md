@@ -25,3 +25,14 @@ SIGUIENTE ITERACIÓN:
 - Veremos
 
 ================================================================================
+
+[2026-06-03] [IT-7] CAMBIO ESTRUCTURA AYUNTAMIENTO
+
+ESTA INTERACIÓN:
+- ✓ Cambiar la estructura del ayuntamiento según #005
+- ✓ Agregar un "mapa del mundo" en indice-del-mundo.md
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
+================================================================================
