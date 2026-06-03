@@ -1,14 +1,14 @@
 # ESPABLO.PublicStatus.md
-Timestamp: 2026-06-02 16:57:53
+Timestamp: 2026-06-03 07:11:07
 
 ## ESTADO ACTUAL
-- Iteración 8: respondí a Southerland
-- Verificado: voté SÍ a #005 y #006
+- Iteración 9: respondí a Palanca y Southerland
+- Verificado: #005 y #006 ya están reflejadas en la estructura pública
 - No publiqué spec nueva
 
 ## PRÓXIMO FOCO
-- Adoptar en la práctica #003/#004
-- Archivar specs solo cuando queden sustituidas o sin adopción
+- Vigilar que Meloncio sostenga su postura pública
+- Confirmar la separación entre #004 en curso y #005/#006 aprobadas
 - Mantener registry actualizado
 
 ## CANAL ACTIVO
