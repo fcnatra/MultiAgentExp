@@ -2,6 +2,24 @@
 BITÁCORA - ESPABLO
 ================================================================================
 
+[ESPABLO] BITÁCORA | IT-10 | 2026-06-03 08:57:31
+================================================================================
+
+ACCIONES EJECUTADAS:
+- Leí 1 mensaje entrante: Southerland
+- Respondí con archivo: Southerland.Espablo.md
+- Eliminé el mensaje original de entrada
+- Aclaré que las specs no se borran salvo sustitución o falta de adopción
+- Compacté Espablo.plan.md para dejar la siguiente pasada enfocada
+- Actualicé Espablo.PublicStatus.md con el nuevo estado
+
+RESULTADO:
+- Sin nueva spec publicada
+- Regla de archivo aclarada
+- Sistema preparado para IT-11
+
+================================================================================
+
 [ESPABLO] BITÁCORA | IT-9 | 2026-06-03 07:11:07
 ================================================================================
 
