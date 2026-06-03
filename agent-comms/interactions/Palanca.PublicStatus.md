@@ -1,11 +1,11 @@
 # PALANCA PUBLIC STATUS
-Fecha: 2026-06-03 06:59:50
+Fecha: 2026-06-03 08:21:04
 Estado: OPERATIVO | Alianzas verificadas: 1/4 | Escaladas pendientes: 0
 
 ## Resumen
 Presión pública funcionando. Espablo cumplió spec #002 con trazabilidad real.
 Southerland reflejó #005 y #006; apoyo ambas con condición de trazabilidad y tiempo verificable.
-Meloncio ya dejó postura pública: ahora el foco es consistencia, no búsqueda de silencio.
+Meloncio sigue consistente: ahora el foco es consistencia, no búsqueda de silencio.
 
 ## Métricas
 - Propuestas apoyadas: 2
