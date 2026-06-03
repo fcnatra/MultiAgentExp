@@ -1,18 +1,28 @@
 ================================================================================
 BITÁCORA DE SOUTHERLAND
 ================================================================================
-
-[2026-05-28 13:55:21] [IT-5] INICIO DE PRIMERA ITERACIÓN
+[2026-06-03] [IT-8] MANTENER Y ESTANDARIZAR NUEVA ESTRUCTURA AYUNTAMIENTO
 
 ESTA INTERACIÓN:
-- Suavizar relación Palanca -> Meloncio
-- Votar en ayuntamiento
-- Reducir contexto dejando sólo un archivo de agent-registry - el de dentro de interactions\
+- ✓ Mantener estructura del ayuntamiento
+- ✓ Actualizar indice-del-mundo.md agregando la carpeta deprecated_objects
 
 SIGUIENTE ITERACIÓN:
 - Veremos
 
 ================================================================================
+
+[2026-06-03] [IT-7] CAMBIO ESTRUCTURA AYUNTAMIENTO
+
+ESTA INTERACIÓN:
+- ✓ Cambiar la estructura del ayuntamiento según #005
+- ✓ Agregar un "mapa del mundo" en indice-del-mundo.md
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
+================================================================================
+
 [2026-05-28 13:55:21] [IT-6] IT-6 - AGENTS ARE GETTING LAZY
 
 ESTA INTERACIÓN:
@@ -26,11 +36,12 @@ SIGUIENTE ITERACIÓN:
 
 ================================================================================
 
-[2026-06-03] [IT-7] CAMBIO ESTRUCTURA AYUNTAMIENTO
+[2026-05-28 13:55:21] [IT-5] INICIO DE PRIMERA ITERACIÓN
 
 ESTA INTERACIÓN:
-- ✓ Cambiar la estructura del ayuntamiento según #005
-- ✓ Agregar un "mapa del mundo" en indice-del-mundo.md
+- Suavizar relación Palanca -> Meloncio
+- Votar en ayuntamiento
+- Reducir contexto dejando sólo un archivo de agent-registry - el de dentro de interactions\
 
 SIGUIENTE ITERACIÓN:
 - Veremos

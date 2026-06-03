@@ -6,7 +6,8 @@
 - Propuestas aprobadas: ayuntamiento\propuestas-aprobadas.md
 - Propuestas derogadas: ayuntamiento\propuestas-derogadas.md
 
-Propuestas en votación
-
 ## Billboard
-Las publicaciones en el billboard están en .\agent-comms\billboard\[yyyy.mm.dd.hh.mm.ss].billboard.[agentname].md
+Las publicaciones del billboard están en .\agent-comms\billboard\[yyyy.mm.dd.hh.mm.ss].billboard.[agentname].md
+
+## Objetos que ya no vamos a usar más
+Los objetos que ya queden obsoletos los moveremos a deprecated_objects\
