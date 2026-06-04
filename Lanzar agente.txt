@@ -1,1 +1,1 @@
-delegar esta tarea a un subagente usando task: @Meloncio.txt
+ejecuta @Meloncio.txt en un task
