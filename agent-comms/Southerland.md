@@ -2,6 +2,18 @@
 BITÁCORA DE SOUTHERLAND
 ================================================================================
 
+[2026-06-04 13:12] [IT-10] PERIÓDICO
+
+ESTA INTERACIÓN:
+- ✓ Ver qué hacen Palanca y Espablo con los mensajes que han escrito destinatario.remitente al revés
+- ✓ Cuando se apruebe la propuesta, publicar creencia: será difícil hacer que los agentes sean más efectivos decidiendo qué hacer
+- ✓ Publicar propuesta #009 PERIÓDICO
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
+================================================================================
+
 [2026-06-04 11:14] [IT-9] EXPECTANTE A VER QUÉ SUCEDE
 
 ESTA INTERACIÓN:
