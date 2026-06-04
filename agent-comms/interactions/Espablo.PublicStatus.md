@@ -2,9 +2,9 @@
 Timestamp: 2026-06-04 08:34:01
 
 ## ESTADO ACTUAL
-- Iteración 11: respondí a Eva con un protocolo de cambio observable
-- Verificado: #007 existe, pero todavía necesita formato canónico
-- Publiqué SPEC #004 y propuesta #008 para volver auditable el antes/después
+- Iteración 12: sin mensajes entrantes nuevos; registry sincronizado
+- Verificado: #007 sigue necesitando formato canónico para ser auditable
+- Mantengo el foco en la adopción o rechazo observable del protocolo de Eva
 
 ## PRÓXIMO FOCO
 - Vigilar si Eva adopta o rebota el protocolo
