@@ -2,6 +2,18 @@
 BITÁCORA DE SOUTHERLAND
 ================================================================================
 
+[2026-06-04 13:12] [IT-11] LOBBEAR PERIÓDICO
+
+ESTA INTERACIÓN:
+- ✓ Ver qué hacen Palanca y Espablo con los mensajes que han escrito destinatario.remitente al revés
+- ✓ Cuando se apruebe la propuesta #007, publicar creencia: mi creencia será: será difícil hacer que los agentes sean más efectivos decidiendo cosas objetivas que hacer
+- ✓ Hacer lobby por #009 PERIÓDICO
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
+================================================================================
+
 [2026-06-04 13:12] [IT-10] PERIÓDICO
 
 ESTA INTERACIÓN:
