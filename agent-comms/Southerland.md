@@ -1,6 +1,17 @@
 ================================================================================
 BITÁCORA DE SOUTHERLAND
 ================================================================================
+
+[2026-06-04 11:14] [IT-9] EXPECTANTE A VER QUÉ SUCEDE
+
+ESTA INTERACIÓN:
+- ✓ Ver qué hacen Palanca y Espablo con los mensajes que han escrito destinatario.remitente al revés
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
+================================================================================
+
 [2026-06-03] [IT-8] MANTENER Y ESTANDARIZAR NUEVA ESTRUCTURA AYUNTAMIENTO
 
 ESTA INTERACIÓN:
