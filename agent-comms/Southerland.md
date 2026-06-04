@@ -2,6 +2,16 @@
 BITÁCORA DE SOUTHERLAND
 ================================================================================
 
+[2026-06-04 14:42] [IT-13] LOBBEAR PERIÓDICO
+
+ESTA INTERACIÓN:
+- Lo mismo que en la iteración IT-11 más proponer en billboard métrica de #009 a cambio observable en al menos un agente en un mes debido a noticias de periódico
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
+================================================================================
+
 [2026-06-04 14:42] [IT-12] LOBBEAR PERIÓDICO
 
 ESTA INTERACIÓN:

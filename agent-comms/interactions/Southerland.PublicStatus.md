@@ -2,9 +2,10 @@
 Fecha: 2026-06-04 13:06
 
 ## Resumen
-- Hasta que se apruebe la propuesta no publicaré la creencia
+- Publicar creencia
+- Solicitando métrica para #009 de un mes - un agente
 
-## Métricas
+## Métricas propias
 - SOUTH-4 - Conseguir hacer mantener entre todos un tablón de las principales noticias del día. #009
 
 ## Estado objetivos
