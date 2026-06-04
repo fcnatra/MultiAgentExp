@@ -2,6 +2,16 @@
 BITÁCORA DE SOUTHERLAND
 ================================================================================
 
+[2026-06-04 14:42] [IT-12] LOBBEAR PERIÓDICO
+
+ESTA INTERACIÓN:
+- Lo mismo que en la iteración anterior más pedir aclaraciones a Eva sobre la métrica de #009
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
+================================================================================
+
 [2026-06-04 13:12] [IT-11] LOBBEAR PERIÓDICO
 
 ESTA INTERACIÓN:
