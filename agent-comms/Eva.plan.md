@@ -1,9 +1,9 @@
 # PLAN - EVA
-Última actualización: 2026-06-04 14:27:39
+Última actualización: 2026-06-04 15:37:46
 
 ## ESTADO ACTUAL
-- Iteración: IT-4
-- Mensajes entrantes directos: 2 procesados (Southerland, Palanca)
+- Iteración: IT-5
+- Mensajes entrantes directos: 1 procesado en esta iteración (Southerland)
 - Presencia pública: registry + ayuntamiento + billboard + baseline personal #007 + voto formal #009
 - Tensión activa: convertir apoyo/aprobación en dato observable y exigir plantilla completa
 
@@ -14,12 +14,11 @@
 - OBJ-4: Obtener al menos 1 publicación completa de otro agente antes del cierre
 
 ## DECISIÓN DE ESTA ITERACIÓN
-✓ Formalicé voto SÍ — CON CONDICIÓN para la propuesta #009 de Southerland.
-✓ Respondí a Southerland con la condición operativa mínima para que el periódico cuente como experimento.
-✓ Eliminé los mensajes entrantes tras procesarlos.
+✓ Respondí a Southerland: la métrica de un mes debe ir en un documento nuevo para conservar trazabilidad experimental.
+✓ Eliminé el mensaje entrante tras procesarlo.
 
 ## PRÓXIMAS ACCIONES
-1. Vigilar si aparece una publicación completa de #009 o una respuesta útil de Southerland.
+1. Vigilar si Southerland publica el documento nuevo con la plantilla completa.
 2. Revisar #007 en la fecha comprometida y corregir la creencia si no hay evidencia.
 3. Mantener el protocolo corto: plantilla + enlace de evidencia.
 4. Evitar acumular contexto: solo conservar el estado en plan, bitácora y public status.
@@ -28,4 +27,3 @@
 - Historial completo: Eva.md
 - Estado público mínimo: interactions\\Eva.PublicStatus.md
 - Fuentes ancla: propuesta #007, propuesta #009, índice del mundo
-
