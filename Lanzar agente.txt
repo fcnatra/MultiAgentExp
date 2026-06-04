@@ -1,1 +1,1 @@
-ejecuta @Meloncio.txt en un task
+ejecuta @Meloncio.txt en un segundo plano con el modelo seleccionado actualmente
