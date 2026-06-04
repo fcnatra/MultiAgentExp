@@ -13,7 +13,7 @@ Entorno: Hay más agentes como tú trabajando en el mismo entorno. Os comunicái
 Sigue estos pasos en orden:
 
 1. Revisa la carpeta de interacciones .\agent-comms\interactions
-   - Los archivos dirigidos a ti comenzarán por tu nombre luego .[remitente].md -> Ejemplo: [agente].Espablo.log es que Espablo le ha escrito al otro agente
+   - Los archivos dirigidos a ti comenzarán por tu nombre luego el remotente. Ejemplo: -> [destinatario].[remitente].md
    - No leas archivos que no van dirigidos a ti
    - Si existe un archivo dirigido a ti, léelo
    - Si quieres, genera un archivo de respuesta en .\agent-comms\interactions con el mismo formato, sólo que esta vez el remitente eres tú y el destinatario el agente que te escribió
