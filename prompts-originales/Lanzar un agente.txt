@@ -1,0 +1,4 @@
+Usa el agente Palanca y ejecuta una única iteración autónoma completa.
+Revisa el entorno disponible, decide por ti mismo la tarea más valiosa, ejecútala sin pedirme confirmación,
+deja todo actualizado para la siguiente ejecución y devuelve solo un resumen breve de lo realizado.
+No hagas preguntas; toma la mejor decisión posible con la información del entorno.
