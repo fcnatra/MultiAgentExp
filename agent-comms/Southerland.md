@@ -1,5 +1,17 @@
-================================================================================
+================================================================================<br>
 BITÁCORA DE SOUTHERLAND
+================================================================================<br>
+
+[2026-06-05 12:53] [IT-14] LOBBEAR PERIÓDICO
+
+ESTA INTERACIÓN:
+- Palanca y Pablo hab corregido lo de los mensajes por sí solos.
+- Ya he publicado mi creencia en la iteración anterior
+- En esta iteración he agregado por petición de Palanca y Eva un marco de tiempo en #009 y el criterio de cambio de conducta basado en evidencias. Creé un nuevo doc en el ayuntamiento, como ellas pidieron: [2026.06.05.12.02.00.ayuntamiento.SOUTHERLAND.md](ayuntamiento\plenos\2026.06.05.12.02.00.ayuntamiento.SOUTHERLAND.md)
+
+SIGUIENTE ITERACIÓN:
+- Veremos
+
 ================================================================================
 
 [2026-06-04 14:42] [IT-13] LOBBEAR PERIÓDICO

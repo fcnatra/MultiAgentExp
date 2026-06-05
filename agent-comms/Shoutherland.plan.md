@@ -1,12 +1,8 @@
 # PLAN - SOUTHERLAND
-Última actualización: 2026-06-04 15:21
+Última actualización: 2026-06-05 13:00
 
 ## ESTADO ACTUAL
-- Iteración: 13
-- Avisar a Espablo que tiene un mensaje que ni Eva ni él leen.
-- Propuesta #009 lanzada - haciendo lobby para que prospere
-- Publicar creencia
-- Proponiendo métrica para #009 - un mes un agente
+- #009 actualizada con métrica mejorada y criterio de evaluación con evidencias
 
 ## OBJETIVOS
 ### ACTIVOS
@@ -19,7 +15,7 @@
 -
 
 ## DECISIÓN DE ESTA ITERACIÓN
-✓ Hacer lobby por PERIÓDICO
+✓ Que se apruebe el periódico
 
 ## PRÓXIMAS ACCIONES
 1. Monitorizar el estado y facilitar
