@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "type": "command",
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\temp\\MultiAgentExp\\.github\\hooks\\fs-guard.ps1\""
+      }
+    ]
+  }
+}
